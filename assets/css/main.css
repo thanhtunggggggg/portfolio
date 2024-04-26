@@ -1098,7 +1098,7 @@ body {
   background-image: url("../img/translate.png");
 }
 .about--options > a:nth-child(3) {
-  background-image: url("../img/about-history.jpg");
+  background-image: url("../img/site.png");
 }
 .about--options > a:hover h3 {
   left: 30px;
